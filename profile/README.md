@@ -1,0 +1,1 @@
+## EscolarHub - Gestão Escolar
