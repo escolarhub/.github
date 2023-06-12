@@ -1,6 +1,8 @@
 # EscolarHub - Gestão Escolar
 
-Uma solução completa e eficiente para a gestão de escolas, disponível tanto para web quanto para dispositivos móveis (Android e iOS). Desenvolvido com foco na otimização dos processos escolares, nosso objetivo é oferecer uma experiência intuitiva e integrada para administradores, professores, alunos e pais.
+Uma solução completa e eficiente para a gestão de escolas, disponível tanto para web quanto para dispositivos móveis (Android e iOS).
+
+Desenvolvido com foco na otimização dos processos escolares, nosso objetivo é oferecer uma experiência intuitiva e integrada para administradores, professores, alunos e pais.
 
 ## Funcionalidades
 
