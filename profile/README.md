@@ -18,6 +18,6 @@ Desenvolvido com foco na otimização dos processos escolares, nosso objetivo é
 
 O Sistema de Gestão Escolar é desenvolvido utilizando as seguintes tecnologias:
 
-- **Front-end Web:** React.
-- **Back-end:** Express.js.
+- **Front-end Web:** Angular.
+- **Back-end:** Spring.
 - **Banco de Dados:** PostgreSQL.
